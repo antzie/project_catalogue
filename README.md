@@ -30,9 +30,9 @@ Navigate to catalog folder of virtual machine
 ```
 cd path/vagrant/catalog
 ```
-Clone github repository []()
+Clone github repository 
 ```
-$ git clone https://github.com/antzie/   .git
+$ git clone https://github.com/antzie/project_catalogue.git
 ```
 ## Run Application
 ### Launch VM
