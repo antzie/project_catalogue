@@ -14,9 +14,6 @@ Assumes the following python libraries are installed.
 - flask
 - sqlalchemy
 - oauth2client
-- httplib2
-- json
-- requests
 
 ## Installation
 ### Set Up Virtual Environment
